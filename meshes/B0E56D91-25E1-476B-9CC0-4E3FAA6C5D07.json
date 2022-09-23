@@ -1,0 +1,17 @@
+{
+    "@class": "SphereMesh",
+    "id": {
+        "uuid": "B0E56D91-25E1-476B-9CC0-4E3FAA6C5D07"
+    },
+    "hasPositions": true,
+    "hasColors": false,
+    "hasUV": true,
+    "hasNormals": true,
+    "hasTangents": true,
+    "hasBinormals": true,
+    "hasSkinAttributes": false,
+    "radius": 0.5,
+    "percentage": 1.0,
+    "radialSegmentCount": 32,
+    "heightSegmentCount": 32
+}
